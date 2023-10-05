@@ -11,4 +11,6 @@
   * Docker
   * AWS
   * GCP
-* Secrets Mangment
+* Secrets Management
+* Get Github to use Codeland runners for actions
+* Get Gittea to use Coldeland runners for actions
